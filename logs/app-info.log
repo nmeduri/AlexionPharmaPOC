@@ -1,0 +1,213 @@
+[INFO ] 2020-07-17 15:38:13.905 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:38:13.918 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:38:13.918 [main] Logs - $$$$$$$$$$$$$$$$$$$$$                 OurResearchLink TestFeature       $$$$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2020-07-17 15:38:13.919 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:38:13.919 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:38:13.920 [main] Logs - Starting OurResearchLink Scenario Execution.....
+[INFO ] 2020-07-17 15:38:13.951 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:38:13.952 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:38:13.952 [main] Logs - $$$$$$$$$$$$$$$$$$$$$                 ContactUsLink TestFeature       $$$$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2020-07-17 15:38:13.953 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:38:13.954 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:38:13.954 [main] Logs - Starting ContactUsLink Scenario Execution.....
+[INFO ] 2020-07-17 15:38:13.957 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:38:13.957 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:38:13.958 [main] Logs - $$$$$$$$$$$$$$$$$$$$$                 NewsandMediaLink Test Feature       $$$$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2020-07-17 15:38:13.958 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:38:13.959 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:38:13.959 [main] Logs - Starting New and Media Scenario Execution.....
+[INFO ] 2020-07-17 15:38:13.961 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:38:13.962 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:38:13.962 [main] Logs - $$$$$$$$$$$$$$$$$$$$$                 OurInspiration Test Feature       $$$$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2020-07-17 15:38:13.963 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:38:13.963 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:38:13.964 [main] Logs - Starting OurInspiration Scenario Execution.....
+[INFO ] 2020-07-17 15:38:37.332 [main] Logs - Browser Launched......
+[INFO ] 2020-07-17 15:38:41.971 [main] Logs - Clcked on ResearchLink......
+[INFO ] 2020-07-17 15:38:42.520 [main] Logs - Research Link assertion completed......
+[INFO ] 2020-07-17 15:38:42.521 [main] Logs -  OurResearchLink Scenario Execution Completed Successfully......
+[INFO ] 2020-07-17 15:38:42.522 [main] Logs - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-OurResearchLink Test Feature           XXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2020-07-17 15:38:42.523 [main] Logs - X
+[INFO ] 2020-07-17 15:38:42.523 [main] Logs - X
+[INFO ] 2020-07-17 15:38:42.524 [main] Logs - X
+[INFO ] 2020-07-17 15:38:42.524 [main] Logs - X
+[INFO ] 2020-07-17 15:38:42.526 [main] Logs - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-ContactUs TestFeature           XXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2020-07-17 15:38:42.527 [main] Logs - X
+[INFO ] 2020-07-17 15:38:42.527 [main] Logs - X
+[INFO ] 2020-07-17 15:38:42.528 [main] Logs - X
+[INFO ] 2020-07-17 15:38:42.528 [main] Logs - X
+[INFO ] 2020-07-17 15:38:42.529 [main] Logs - ContactUsLink Scenario Execution Completed Successfully.....
+[INFO ] 2020-07-17 15:38:42.530 [main] Logs -  New and Media Scenario Execution Completed Successfully.....
+[INFO ] 2020-07-17 15:38:42.531 [main] Logs - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-NewsandMedia TestFeature           XXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2020-07-17 15:38:42.532 [main] Logs - X
+[INFO ] 2020-07-17 15:38:42.532 [main] Logs - X
+[INFO ] 2020-07-17 15:38:42.533 [main] Logs - X
+[INFO ] 2020-07-17 15:38:42.533 [main] Logs - X
+[INFO ] 2020-07-17 15:38:42.535 [main] Logs -  OurInspiration Scenario Execution Completed Successfully......
+[INFO ] 2020-07-17 15:38:42.536 [main] Logs - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-OurInspiration TestFeature           XXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2020-07-17 15:38:42.536 [main] Logs - X
+[INFO ] 2020-07-17 15:38:42.537 [main] Logs - X
+[INFO ] 2020-07-17 15:38:42.537 [main] Logs - X
+[INFO ] 2020-07-17 15:38:42.538 [main] Logs - X
+[INFO ] 2020-07-17 15:38:42.556 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:38:42.557 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:38:42.558 [main] Logs - $$$$$$$$$$$$$$$$$$$$$                 OurResearchLink TestFeature       $$$$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2020-07-17 15:38:42.558 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:38:42.559 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:38:42.560 [main] Logs - Starting OurResearchLink Scenario Execution.....
+[INFO ] 2020-07-17 15:38:42.562 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:38:42.563 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:38:42.564 [main] Logs - $$$$$$$$$$$$$$$$$$$$$                 ContactUsLink TestFeature       $$$$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2020-07-17 15:38:42.565 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:38:42.565 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:38:42.566 [main] Logs - Starting ContactUsLink Scenario Execution.....
+[INFO ] 2020-07-17 15:38:42.569 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:38:42.570 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:38:42.571 [main] Logs - $$$$$$$$$$$$$$$$$$$$$                 NewsandMediaLink Test Feature       $$$$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2020-07-17 15:38:42.571 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:38:42.572 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:38:42.573 [main] Logs - Starting New and Media Scenario Execution.....
+[INFO ] 2020-07-17 15:38:42.576 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:38:42.577 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:38:42.577 [main] Logs - $$$$$$$$$$$$$$$$$$$$$                 OurInspiration Test Feature       $$$$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2020-07-17 15:38:42.578 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:38:42.578 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:38:42.579 [main] Logs - Starting OurInspiration Scenario Execution.....
+[INFO ] 2020-07-17 15:39:02.097 [main] Logs - Browser Launched......
+[INFO ] 2020-07-17 15:39:06.906 [main] Logs - Clcked on ResearchLink......
+[INFO ] 2020-07-17 15:39:11.399 [main] Logs - Research Link assertion completed......
+[INFO ] 2020-07-17 15:39:11.400 [main] Logs -  OurResearchLink Scenario Execution Completed Successfully......
+[INFO ] 2020-07-17 15:39:11.401 [main] Logs - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-OurResearchLink Test Feature           XXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2020-07-17 15:39:11.401 [main] Logs - X
+[INFO ] 2020-07-17 15:39:11.401 [main] Logs - X
+[INFO ] 2020-07-17 15:39:11.401 [main] Logs - X
+[INFO ] 2020-07-17 15:39:11.402 [main] Logs - X
+[INFO ] 2020-07-17 15:39:11.403 [main] Logs - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-ContactUs TestFeature           XXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2020-07-17 15:39:11.403 [main] Logs - X
+[INFO ] 2020-07-17 15:39:11.403 [main] Logs - X
+[INFO ] 2020-07-17 15:39:11.404 [main] Logs - X
+[INFO ] 2020-07-17 15:39:11.404 [main] Logs - X
+[INFO ] 2020-07-17 15:39:11.404 [main] Logs - ContactUsLink Scenario Execution Completed Successfully.....
+[INFO ] 2020-07-17 15:39:11.405 [main] Logs -  New and Media Scenario Execution Completed Successfully.....
+[INFO ] 2020-07-17 15:39:11.405 [main] Logs - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-NewsandMedia TestFeature           XXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2020-07-17 15:39:11.406 [main] Logs - X
+[INFO ] 2020-07-17 15:39:11.406 [main] Logs - X
+[INFO ] 2020-07-17 15:39:11.406 [main] Logs - X
+[INFO ] 2020-07-17 15:39:11.407 [main] Logs - X
+[INFO ] 2020-07-17 15:39:11.408 [main] Logs -  OurInspiration Scenario Execution Completed Successfully......
+[INFO ] 2020-07-17 15:39:11.409 [main] Logs - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-OurInspiration TestFeature           XXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2020-07-17 15:39:11.409 [main] Logs - X
+[INFO ] 2020-07-17 15:39:11.409 [main] Logs - X
+[INFO ] 2020-07-17 15:39:11.410 [main] Logs - X
+[INFO ] 2020-07-17 15:39:11.410 [main] Logs - X
+[INFO ] 2020-07-17 15:39:11.424 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:39:11.424 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:39:11.425 [main] Logs - $$$$$$$$$$$$$$$$$$$$$                 OurResearchLink TestFeature       $$$$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2020-07-17 15:39:11.425 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:39:11.425 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:39:11.426 [main] Logs - Starting OurResearchLink Scenario Execution.....
+[INFO ] 2020-07-17 15:39:11.428 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:39:11.428 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:39:11.428 [main] Logs - $$$$$$$$$$$$$$$$$$$$$                 ContactUsLink TestFeature       $$$$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2020-07-17 15:39:11.429 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:39:11.429 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:39:11.429 [main] Logs - Starting ContactUsLink Scenario Execution.....
+[INFO ] 2020-07-17 15:39:11.431 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:39:11.431 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:39:11.432 [main] Logs - $$$$$$$$$$$$$$$$$$$$$                 NewsandMediaLink Test Feature       $$$$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2020-07-17 15:39:11.432 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:39:11.432 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:39:11.433 [main] Logs - Starting New and Media Scenario Execution.....
+[INFO ] 2020-07-17 15:39:11.434 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:39:11.435 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:39:11.435 [main] Logs - $$$$$$$$$$$$$$$$$$$$$                 OurInspiration Test Feature       $$$$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2020-07-17 15:39:11.435 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:39:11.436 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:39:11.436 [main] Logs - Starting OurInspiration Scenario Execution.....
+[INFO ] 2020-07-17 15:39:29.006 [main] Logs - null.....Browser Launched:
+[INFO ] 2020-07-17 15:39:33.806 [main] Logs - Clicked on Contact us Link.....
+[INFO ] 2020-07-17 15:39:34.916 [main] Logs - Contact us link available.....
+[INFO ] 2020-07-17 15:39:40.851 [main] Logs - Click on MediaInformation Link.....
+[INFO ] 2020-07-17 15:39:41.449 [main] Logs - First Name field entered.....
+[INFO ] 2020-07-17 15:39:41.840 [main] Logs - Last Name field entered.....
+[INFO ] 2020-07-17 15:39:42.221 [main] Logs - Email field entered.....
+[INFO ] 2020-07-17 15:39:42.660 [main] Logs - Dropdown value selected.....
+[INFO ] 2020-07-17 15:39:43.039 [main] Logs - Area of Interest field entered.....
+[INFO ] 2020-07-17 15:39:43.359 [main] Logs - Product field entered.....
+[INFO ] 2020-07-17 15:39:43.745 [main] Logs - Inquiry field entered.....
+[INFO ] 2020-07-17 15:39:44.554 [main] Logs - User Clicked on Submit button and close the browser.....
+[INFO ] 2020-07-17 15:39:44.556 [main] Logs -  OurResearchLink Scenario Execution Completed Successfully......
+[INFO ] 2020-07-17 15:39:44.556 [main] Logs - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-OurResearchLink Test Feature           XXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2020-07-17 15:39:44.557 [main] Logs - X
+[INFO ] 2020-07-17 15:39:44.557 [main] Logs - X
+[INFO ] 2020-07-17 15:39:44.557 [main] Logs - X
+[INFO ] 2020-07-17 15:39:44.558 [main] Logs - X
+[INFO ] 2020-07-17 15:39:44.560 [main] Logs - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-ContactUs TestFeature           XXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2020-07-17 15:39:44.560 [main] Logs - X
+[INFO ] 2020-07-17 15:39:44.560 [main] Logs - X
+[INFO ] 2020-07-17 15:39:44.561 [main] Logs - X
+[INFO ] 2020-07-17 15:39:44.561 [main] Logs - X
+[INFO ] 2020-07-17 15:39:44.562 [main] Logs - ContactUsLink Scenario Execution Completed Successfully.....
+[INFO ] 2020-07-17 15:39:44.563 [main] Logs -  New and Media Scenario Execution Completed Successfully.....
+[INFO ] 2020-07-17 15:39:44.564 [main] Logs - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-NewsandMedia TestFeature           XXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2020-07-17 15:39:44.564 [main] Logs - X
+[INFO ] 2020-07-17 15:39:44.564 [main] Logs - X
+[INFO ] 2020-07-17 15:39:44.565 [main] Logs - X
+[INFO ] 2020-07-17 15:39:44.565 [main] Logs - X
+[INFO ] 2020-07-17 15:39:44.567 [main] Logs -  OurInspiration Scenario Execution Completed Successfully......
+[INFO ] 2020-07-17 15:39:44.567 [main] Logs - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-OurInspiration TestFeature           XXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2020-07-17 15:39:44.568 [main] Logs - X
+[INFO ] 2020-07-17 15:39:44.568 [main] Logs - X
+[INFO ] 2020-07-17 15:39:44.568 [main] Logs - X
+[INFO ] 2020-07-17 15:39:44.569 [main] Logs - X
+[INFO ] 2020-07-17 15:39:44.583 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:39:44.584 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:39:44.584 [main] Logs - $$$$$$$$$$$$$$$$$$$$$                 OurResearchLink TestFeature       $$$$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2020-07-17 15:39:44.584 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:39:44.587 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:39:44.587 [main] Logs - Starting OurResearchLink Scenario Execution.....
+[INFO ] 2020-07-17 15:39:44.592 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:39:44.593 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:39:44.594 [main] Logs - $$$$$$$$$$$$$$$$$$$$$                 ContactUsLink TestFeature       $$$$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2020-07-17 15:39:44.594 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:39:44.596 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:39:44.596 [main] Logs - Starting ContactUsLink Scenario Execution.....
+[INFO ] 2020-07-17 15:39:44.600 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:39:44.601 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:39:44.601 [main] Logs - $$$$$$$$$$$$$$$$$$$$$                 NewsandMediaLink Test Feature       $$$$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2020-07-17 15:39:44.602 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:39:44.604 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:39:44.605 [main] Logs - Starting New and Media Scenario Execution.....
+[INFO ] 2020-07-17 15:39:44.608 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:39:44.608 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:39:44.609 [main] Logs - $$$$$$$$$$$$$$$$$$$$$                 OurInspiration Test Feature       $$$$$$$$$$$$$$$$$$$$$$$$$
+[INFO ] 2020-07-17 15:39:44.609 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:39:44.610 [main] Logs - ****************************************************************************************
+[INFO ] 2020-07-17 15:39:44.611 [main] Logs - Starting OurInspiration Scenario Execution.....
+[INFO ] 2020-07-17 15:40:09.821 [main] Logs - Browser Launched......
+[INFO ] 2020-07-17 15:40:14.745 [main] Logs - Clicked on Inspiration Link......
+[INFO ] 2020-07-17 15:40:15.233 [main] Logs - Inspiration Link displayed......
+[INFO ] 2020-07-17 15:40:15.234 [main] Logs -  OurResearchLink Scenario Execution Completed Successfully......
+[INFO ] 2020-07-17 15:40:15.235 [main] Logs - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-OurResearchLink Test Feature           XXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2020-07-17 15:40:15.236 [main] Logs - X
+[INFO ] 2020-07-17 15:40:15.237 [main] Logs - X
+[INFO ] 2020-07-17 15:40:15.237 [main] Logs - X
+[INFO ] 2020-07-17 15:40:15.237 [main] Logs - X
+[INFO ] 2020-07-17 15:40:15.240 [main] Logs - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-ContactUs TestFeature           XXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2020-07-17 15:40:15.240 [main] Logs - X
+[INFO ] 2020-07-17 15:40:15.241 [main] Logs - X
+[INFO ] 2020-07-17 15:40:15.241 [main] Logs - X
+[INFO ] 2020-07-17 15:40:15.241 [main] Logs - X
+[INFO ] 2020-07-17 15:40:15.242 [main] Logs - ContactUsLink Scenario Execution Completed Successfully.....
+[INFO ] 2020-07-17 15:40:15.244 [main] Logs -  New and Media Scenario Execution Completed Successfully.....
+[INFO ] 2020-07-17 15:40:15.245 [main] Logs - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-NewsandMedia TestFeature           XXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2020-07-17 15:40:15.245 [main] Logs - X
+[INFO ] 2020-07-17 15:40:15.245 [main] Logs - X
+[INFO ] 2020-07-17 15:40:15.246 [main] Logs - X
+[INFO ] 2020-07-17 15:40:15.246 [main] Logs - X
+[INFO ] 2020-07-17 15:40:15.248 [main] Logs -  OurInspiration Scenario Execution Completed Successfully......
+[INFO ] 2020-07-17 15:40:15.248 [main] Logs - XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-OurInspiration TestFeature           XXXXXXXXXXXXXXXXXXXXXX
+[INFO ] 2020-07-17 15:40:15.249 [main] Logs - X
+[INFO ] 2020-07-17 15:40:15.249 [main] Logs - X
+[INFO ] 2020-07-17 15:40:15.249 [main] Logs - X
+[INFO ] 2020-07-17 15:40:15.250 [main] Logs - X
